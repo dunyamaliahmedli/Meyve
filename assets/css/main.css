@@ -1,0 +1,40 @@
+*{
+    margin: 0%;
+    padding: 0%;
+
+}
+.aaa{
+    width: 100%;
+    height: 100vh;
+}
+.Yesy{
+    width: 40%;
+    height: 40vh;
+    border: 1px solid black;
+    margin-top: 50px;
+    margin-left: 450px;
+
+    align-items: center;
+}
+.meyve{
+    width: 30%;
+    height: 20vh;
+    border: 1px solid black;
+   margin-top: 50px;
+   margin-left: 50px;
+ 
+   display: flex;
+
+  
+}
+
+.terevez{
+    width: 30%;
+    height: 20vh;
+    border: 1px solid black;
+   float: right;
+   margin-right: 250px;
+   margin-top: -135px;
+    display: flex;
+   
+}
